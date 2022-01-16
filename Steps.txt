@@ -1,0 +1,12 @@
+React Facebook Authentication Process
+
+(1) Crate an app id by visiting the site 
+     developers.facebook.com
+
+(2) Again visit the site 
+    https://www.npmjs.com/package/react-facebook-login
+   (Install the packageas suggested)\
+
+(3) Import the facebookLogin and define it as your wish place --> code given in App.js
+
+(4) Run the app and in console you will be getting the details of the person.
